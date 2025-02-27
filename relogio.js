@@ -18,7 +18,7 @@ class App extends Component{
   render(){
     return(
       <div>
-        <h1>Meu projeto {this.state.hora} </h1>
+        <h1>Horario local: {this.state.hora} </h1>
       </div>
     )
   }
