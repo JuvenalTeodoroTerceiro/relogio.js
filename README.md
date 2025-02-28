@@ -1,1 +1,1 @@
-relogio com horario local
+relogio mostrando o horario local
